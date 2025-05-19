@@ -8,7 +8,11 @@ This project is a pure CSS-based dynamic interactive book that simulates page-fl
 ## Demo
 
 ![Demo](https://github.com/troshkinpavel/CSS-Sprite-Based-Flip-Carousel/blob/main/demo.gif?raw=true)
-https://codepen.io/Maseone/pen/WbbGxeO
+
+[htmlpreview](https://htmlpreview.github.io/?https://github.com/troshkinpavel/CSS-Sprite-Based-Flip-Carousel/blob/main/index.html)
+
+[Codepen](https://codepen.io/Maseone/pen/WbbGxeO)
+
 
 
 ## Documentation
@@ -63,4 +67,10 @@ https://codepen.io/Maseone/pen/WbbGxeO
     }
 </style>
 ```
+
+
+## Deployment
+
+To deploy this work, just open ```index.html``` in browser **Chrome (134+)**
+
 
